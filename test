@@ -1,0 +1,7 @@
+var a = 1;
+var b = 2;
+var c = 3;
+console.log(a + b, 'dfsfsf33fsdf232fsdf212')
+console.log(a + c, 'sdgasgs63')
+console.log(a / b, 'ddssdv947fsfsf313'）
+console.log(a * b * c, 'sdvvdd522sds4')
